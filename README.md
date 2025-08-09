@@ -1,6 +1,6 @@
-# Crunch and Dash
+# Crunch&Dash Food
 
-**Crunch and Dash** is a Flutter-based eCommerce application designed for ordering food online. The app utilizes **Firebase** for authentication and storage, **OpenStreetMap** and **Project OSRM** for map and route navigation, providing a seamless ordering experience.
+**Crunch&Dash Food** is a Flutter-based eCommerce application designed for ordering food online. The app utilizes **Firebase** for authentication and storage, **OpenStreetMap** and **Project OSRM** for map and route navigation, providing a seamless ordering experience.
 
 ## Features
 
@@ -65,10 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries, reach out to:
-- **6 Bags**
-- Email: 6bagshospital@gmail.com
-
+- Email: ngynttvy@gmail.com
 ---
-
-🚀 **Crunch and Dash – Bringing Your Favorite Meals to Your Doorstep!** 🍗
+🚀 **Crunch&Dash – Bringing Your Favorite Meals to Your Doorstep!** 🍗
 
